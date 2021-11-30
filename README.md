@@ -14,11 +14,11 @@ Al cittadino sono rese disponibili diversi servizi specifici:
 - gestione delle autorizzazioni al trattamento dei dati personali e informativa sulla privacy.
 
 Il prodotto è composto dalle seguenti componenti:
-- pslpdb : script DDL/DML per la creazione ed il popolamento iniziale del DB ( https://github.com/regione-piemonte/pslp-pslpdb );
-- pslwcl : Client Web (Angular) per la piattaforma servizi lavoro piemonte   ( https://github.com/regione-piemonte/pslp-pslwcl );
-- pslweb : Componente SPA con servizi REST per pslwcl 						( https://github.com/regione-piemonte/pslp-pslweb );
-- pslorch: Orchestratore Piattaforma Servizi Lavoro Piemonte				( https://github.com/regione-piemonte/pslp-pslorch );
-- pslcommonobj: Libreria di classi usate trasversalmente nel prodotto		( https://github.com/regione-piemonte/pslp-pslcommonobj ).
+- [pslpdb] ( https://github.com/regione-piemonte/pslp-pslpdb ): script DDL/DML per la creazione ed il popolamento iniziale del DB;
+- [pslwcl] ( https://github.com/regione-piemonte/pslp-pslwcl ): Client Web (Angular) per la piattaforma servizi lavoro piemonte;
+- [pslweb] ( https://github.com/regione-piemonte/pslp-pslweb ): Componente SPA con servizi REST per pslwcl;
+- [pslorch] ( https://github.com/regione-piemonte/pslp-pslorch ): Orchestratore Piattaforma Servizi Lavoro Piemonte;
+- [pslcommonobj] ( https://github.com/regione-piemonte/pslp-pslcommonobj ): Libreria di classi usate trasversalmente nel prodotto.
 	
 
 
@@ -45,16 +45,19 @@ Dopo aver seguito le indicazioni del paragrafo relativo all'installazione, si pu
 
 # Versioning
 Per la gestione del codice sorgente viene utilizzato Git, ma non vi sono vincoli per l'utilizzo di altri strumenti analoghi.
-Per il versionamento del software si usa la tecnica Semantic Versioning (http://semver.org).
+Per il versionamento del software si usa la tecnica [Semantic Versioning] (http://semver.org).
 
 
 # Copyrights
 © Copyright Regione Piemonte – 2021
+
 © Copyright CSI-Piemonte – 2021
 
 # License
 
 SPDX-License-Identifier: EUPL-1.2-or-later .
-Questo software è distribuito con licenza EUPL-1.2 . Consultare il file LICENSE.txt per i dettagli sulla licenza.
+
+Questo software è distribuito con licenza EUPL-1.2 . 
+Consultare il file LICENSE.txt per i dettagli sulla licenza.
 
 
