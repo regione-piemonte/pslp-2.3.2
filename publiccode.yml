@@ -12,7 +12,7 @@ dependsOn:
       optional: false
       version: ''
       versionMax: ''
-      versionMin: ''
+      versionMin: '2'
     - name: RedHat JBOSS
       optional: false
       version: 6.4.5
@@ -21,30 +21,25 @@ dependsOn:
   proprietary:
     - name: Oracle DBMS
       optional: false
-      version: ''
+      version: '11.2'
       versionMax: ''
       versionMin: '11'
 description:
   it:
     features:
-      - |-
-        gestione del proprio "fascicolo" (composto di dati presenti nella SAP
+      - gestione del proprio "fascicolo" (composto di dati presenti nella SAP
         ANPAL)
       - Prenotare appuntamenti con il CPI
-      - |-
-        Richieste per il "collocamento mirato", gestione del reddito e dei
+      - Richieste per il "collocamento mirato", gestione del reddito e dei
         famigliari a carico
       - adesioni al piano "Garanzia Giovani"
       - gestire la "dichiarazione di disponibilità
       - Visualizzazione su mappa dell'ubicazione dei CPI e degli sportelli
-      - |-
-        gestione delle autorizzazioni al trattamento dei dati personali e
+      - gestione delle autorizzazioni al trattamento dei dati personali e
         informativa sulla privacy
     genericName: Piattaforma Servizi Lavoro Piemonte
-    longDescription: |
-      Questa piattaforma permette di gestire diversi servizi legati alle
+    longDescription: Questa piattaforma permette di gestire diversi servizi legati alle
       tematiche del Lavoro gestite dalla Regione Piemonte.
-
 
       Tali servizi possono essere rivolti sia ai cittadini sia agli operatori
       dei Centri per l'impiego. Attraverso il servizio applicativo, infatti,
@@ -53,7 +48,8 @@ description:
       necessario, operare come cittadino per fissare un appuntamento. Sono anche
       incluse funzionalità di gestione geografica dei CPI per poter identificare
       quello più vicino al cittadino.
-    shortDescription: Servizi per cittadini e operatori dei Centri per l'impiego
+      
+    shortDescription: Servizi per cittadini e operatori dei Centri per l'impiego.
 developmentStatus: stable
 intendedAudience:
   countries:
@@ -98,4 +94,4 @@ softwareType: standalone/web
 softwareVersion: 1.0.0
 url: 'https://github.com/regione-piemonte/pslp'
 usedBy:
-  - Regione PIemonte
+  - Regione Piemonte
