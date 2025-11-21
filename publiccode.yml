@@ -70,7 +70,7 @@ it:
     spid: true
   riuso:
     codiceIPA: r_piemon
-landingURL: 'https://github.com/regione-piemonte/pslp.git'
+landingURL: 'https://github.com/regione-piemonte/pslp-2.3.2.git'
 legal:
   authorsFile: |-
     https://raw.githubusercontent.com/regione-piemonte/pslp/master/Copyrights.txt
