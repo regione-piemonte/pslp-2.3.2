@@ -14,11 +14,11 @@ Al cittadino sono rese disponibili diversi servizi specifici:
 - gestione delle autorizzazioni al trattamento dei dati personali e informativa sulla privacy.
 
 Il prodotto è composto dalle seguenti componenti:
-- [pslpdb](https://github.com/regione-piemonte/pslp-pslpdb): 			 script DDL/DML per la creazione ed il popolamento iniziale del DB;
-- [pslwcl](https://github.com/regione-piemonte/pslp-pslwcl): 			 Client Web (Angular) per la piattaforma servizi lavoro piemonte;
-- [pslweb](https://github.com/regione-piemonte/pslp-pslweb): 			 Componente SPA con servizi REST per pslwcl;
-- [pslorch](https://github.com/regione-piemonte/pslp-pslorch): 			 Orchestratore Piattaforma Servizi Lavoro Piemonte;
-- [pslcommonobj](https://github.com/regione-piemonte/pslp-pslcommonobj): Libreria di classi usate trasversalmente nel prodotto.
+- [pslpdb](https://github.com/regione-piemonte/pslp-2-3-2-pslpdb): 			 script DDL/DML per la creazione ed il popolamento iniziale del DB;
+- [pslwcl](https://github.com/regione-piemonte/pslp-2.3.2-pslwcl): 			 Client Web (Angular) per la piattaforma servizi lavoro piemonte;
+- [pslweb](https://github.com/regione-piemonte/pslp-2.3.2-pslweb): 			 Componente SPA con servizi REST per pslwcl;
+- [pslorch](https://github.com/regione-piemonte/pslp-2.3.2-pslorch): 			 Orchestratore Piattaforma Servizi Lavoro Piemonte;
+- [pslcommonobj](https://github.com/regione-piemonte/pslp-2.3.2-pslcommonobj): Libreria di classi usate trasversalmente nel prodotto.
 	
 
 
