@@ -1,5 +1,5 @@
 ﻿# Prodotto
-PSLP : Piattaforma Servizi Lavoro Piemonte
+PSLP : Piattaforma Servizi Lavoro Piemonte - Versione 2.3.2
 
 # Descrizione del prodotto
 
@@ -14,13 +14,14 @@ Al cittadino sono rese disponibili diversi servizi specifici:
 - gestione delle autorizzazioni al trattamento dei dati personali e informativa sulla privacy.
 
 Il prodotto è composto dalle seguenti componenti:
-- [pslpdb](https://github.com/regione-piemonte/pslp-2-3-2-pslpdb): 			 script DDL/DML per la creazione ed il popolamento iniziale del DB;
+- [pslpdb](https://github.com/regione-piemonte/pslp-2.3.2-pslpdb): 			 script DDL/DML per la creazione ed il popolamento iniziale del DB;
 - [pslwcl](https://github.com/regione-piemonte/pslp-2.3.2-pslwcl): 			 Client Web (Angular) per la piattaforma servizi lavoro piemonte;
 - [pslweb](https://github.com/regione-piemonte/pslp-2.3.2-pslweb): 			 Componente SPA con servizi REST per pslwcl;
 - [pslorch](https://github.com/regione-piemonte/pslp-2.3.2-pslorch): 			 Orchestratore Piattaforma Servizi Lavoro Piemonte;
 - [pslcommonobj](https://github.com/regione-piemonte/pslp-2.3.2-pslcommonobj): Libreria di classi usate trasversalmente nel prodotto.
 	
-
+Questa versione di prodotto è in dismissione alla fine del 2025, la nuova versione ha subito una profonda trasformazione, ed è disponibile qui:
+https://github.com/regione-piemonte/pslp
 
 # Prerequisiti di sistema
 
