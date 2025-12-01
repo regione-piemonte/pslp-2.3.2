@@ -88,12 +88,12 @@ maintenance:
     - email: giancarlo.cantoni@csi.it
       name: Giancarlo Cantoni
   type: internal
-name: PSLP
+name: PSLP V2
 platforms:
   - web
 releaseDate: '2021-11-30'
 softwareType: standalone/web
 softwareVersion: 2.3.2
-url: 'https://github.com/regione-piemonte/pslp'
+url: 'https://github.com/regione-piemonte/pslp-2.3.2'
 usedBy:
   - Regione Piemonte
